@@ -1,3 +1,1 @@
-# Don-Galleto
-El proyecto de Don galleto 
-holiiii
+Esta es una prueba de conectividad
